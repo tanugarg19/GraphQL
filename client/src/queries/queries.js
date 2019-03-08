@@ -40,7 +40,7 @@ query($id:ID){
             age
             books{
                 name   
-                id             
+                             
             }
         }
     }
